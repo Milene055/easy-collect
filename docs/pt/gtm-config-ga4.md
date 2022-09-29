@@ -46,8 +46,6 @@ A seguir um breve tutorial da configuração do Easy Collect em seu Google Tag M
 
 ## **1.1 Tag Easy Collect**       
 
-
-
   O arquivo há ser instalado está presente na pasta [build](https://github.com/DP6/easy-collect/blob/master/build/gtm/main.js), seja ele o arquivo de exemplo disponível neste repositório, ou uma versão personalizada gerada via Gulp, deverá ser copiado integralmente para uma Tag Custom HTML.
  
  - É necessario que as variaveis incorporadas *DebugMode* e *Container ID* estejam habilitadas para seu perfeito funcionamento. 
@@ -98,7 +96,7 @@ A seguir um breve tutorial da configuração do Easy Collect em seu Google Tag M
 
 (descrever o que tem implementado no template e disponibilizar link)
 
-<a href="https://github.com/DP6/easy-collect/tree/master/documentations/docs/pt/template_ecommerce.json" dowload="template_ecommerce.json" type="application/json"> Baixar Template</a>
+<a href="easy-collect\documentations\docs\pt\template_ecommerce.json" dowload="template_ecommerce.json" type="application/json"> Baixar Template</a>
 
 ### 2.3. Template para coleta  de *Enhanced Ecommerce* e *Eventos Recomendados*
 
