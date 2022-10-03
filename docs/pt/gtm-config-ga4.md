@@ -96,7 +96,7 @@ A seguir um breve tutorial da configuração do Easy Collect em seu Google Tag M
 
 (descrever o que tem implementado no template e disponibilizar link)
 
-<a href="easy-collect\documentations\docs\pt\template_ecommerce.json" dowload="template_ecommerce.json" type="application/json"> Baixar Template</a>
+<a href="https://raw.githubusercontent.com/Milene055/easy-collect/master/docs/pt/template_ecommerce.json" dowload="template_ecommerce.json" type="application/json"> Baixar Template</a>
 
 ### 2.3. Template para coleta  de *Enhanced Ecommerce* e *Eventos Recomendados*
 
